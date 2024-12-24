@@ -2,7 +2,7 @@
   "main" : "node_modules/expo/AppEntry.js",
   "name" : "component-native",
   "private" : true,
-  "homepage" : "/foundation.web",
+  "homepage" : "/demo.foundation-web",
   "dependencies" : {
     "react-native-svg" : "12.3.0",
     "javascript-time-ago" : "2.3.11",
