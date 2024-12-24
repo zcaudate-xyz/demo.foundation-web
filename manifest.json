@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Web Index",
+  "short_name": "Web Index",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
