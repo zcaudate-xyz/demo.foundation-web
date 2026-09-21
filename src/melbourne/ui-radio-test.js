@@ -2,11 +2,11 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_radio from './ui-radio'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // melbourne.ui-radio-test/RadioBoxDemo [22] 
 function RadioBoxDemo(){

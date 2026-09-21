@@ -4,7 +4,7 @@ import * as ReactNative from 'react-native'
 
 import * as LWCharts from 'lightweight-charts'
 
-import k from './xt/lang/base-lib'
+import k from './libs/xt/lang/base-lib'
 
 // component.web-pune-frame-graph/DATA [13] 
 var DATA = [

@@ -1,4 +1,4 @@
-import ui_slider from '../js/react-native/ui-slider'
+import * as ui_slider from '../libs/js/react-native/ui-slider'
 
 import base_palette from './base-palette'
 

@@ -2,13 +2,13 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import ui_check_box from '../js/react-native/ui-check-box'
+import * as ui_check_box from '../libs/js/react-native/ui-check-box'
 
 import base_font from './base-font'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 

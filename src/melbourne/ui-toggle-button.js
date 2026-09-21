@@ -2,11 +2,11 @@ import React from 'react'
 
 import base_font from './base-font'
 
-import ui_toggle_button from '../js/react-native/ui-toggle-button'
+import * as ui_toggle_button from '../libs/js/react-native/ui-toggle-button'
 
 import addon_tooltip from './addon-tooltip'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 

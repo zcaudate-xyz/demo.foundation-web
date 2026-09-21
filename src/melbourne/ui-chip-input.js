@@ -8,13 +8,13 @@ import ui_chip from './ui-chip'
 
 import ui_input from './ui-input'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_button from './ui-button'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
-import ui_util from '../js/react-native/ui-util'
+import * as ui_util from '../libs/js/react-native/ui-util'
 
 // melbourne.ui-chip-input/ChipInput [17] 
 function ChipInput({

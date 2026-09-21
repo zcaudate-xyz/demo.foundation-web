@@ -1,10 +1,10 @@
 import * as ReactNative from 'react-native'
 
-import c from '../js/react-native/helper-color'
+import * as c from '../libs/js/react-native/helper-color'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import ui_input from './ui-input'
 

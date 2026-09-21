@@ -2,19 +2,19 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import a from '../js/react-native/animate'
+import * as a from '../libs/js/react-native/animate'
 
 import ui_text from '../melbourne/ui-text'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import ui_base from '../js/react-native/physical-base'
+import * as ui_base from '../libs/js/react-native/physical-base'
 
 import base_market from './common/data-market'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import ui_section from '../melbourne/ui-section'
 

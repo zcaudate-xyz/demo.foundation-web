@@ -12,9 +12,9 @@ import ui_text from './ui-text'
 
 import ui_toggle_button from './ui-toggle-button'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import event_form from '../xt/lang/event-form'
+import * as event_form from '../libs/xt/event/base-form'
 
 import addon_validation from './addon-validation'
 
@@ -22,13 +22,13 @@ import ui_input_xl from './ui-input-xl'
 
 import ui_input from './ui-input'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_group from './ui-group'
 
-import ext_form from '../js/react/ext-form'
+import * as ext_form from '../libs/js/react/ext-form'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 

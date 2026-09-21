@@ -8,17 +8,17 @@ import slim_entry from './slim-entry'
 
 import ui_text from './ui-text'
 
-import event_form from '../xt/lang/event-form'
+import * as event_form from '../libs/xt/event/base-form'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ext_form from '../js/react/ext-form'
+import * as ext_form from '../libs/js/react/ext-form'
 
-import ext_view from '../js/react/ext-view'
+import * as ext_view from '../libs/js/react/ext-model'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
-import ui_util from '../js/react-native/ui-util'
+import * as ui_util from '../libs/js/react-native/ui-util'
 
 import ui_static from './ui-static'
 

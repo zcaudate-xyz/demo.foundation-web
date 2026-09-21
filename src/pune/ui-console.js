@@ -2,9 +2,9 @@ import * as ReactNative from 'react-native'
 
 import RNIcon from 'react-native-vector-icons/Entypo'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import ui_static from '../melbourne/ui-static'
 

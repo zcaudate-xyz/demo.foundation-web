@@ -2,13 +2,13 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import c from '../js/react-native/helper-color'
+import * as c from '../libs/js/react-native/helper-color'
 
 import base_palette from './base-palette'
 
 import base_theme from './base-theme'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // melbourne.addon-validation/addonValidation [22] 
 function addonValidation({design = {},palette,result,styleText,style}){

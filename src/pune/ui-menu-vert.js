@@ -4,15 +4,15 @@ import * as ReactNative from 'react-native'
 
 import RNIcon from 'react-native-vector-icons/Entypo'
 
-import ui_tooltip from '../js/react-native/ui-tooltip'
+import * as ui_tooltip from '../libs/js/react-native/ui-tooltip'
 
 import ui_toggle_button from '../melbourne/ui-toggle-button'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_button from '../melbourne/ui-button'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from '../melbourne/base-palette'
 

@@ -6,23 +6,23 @@ import RNIcon from 'react-native-vector-icons/Entypo'
 
 import slim_entry from './slim-entry'
 
-import event_view from '../xt/lang/event-view'
+import * as event_view from '../libs/xt/event/base-model'
 
 import ui_text from './ui-text'
 
 import ui_input from './ui-input'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_group from './ui-group'
 
-import ext_view from '../js/react/ext-view'
+import * as ext_view from '../libs/js/react/ext-model'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 
-import event_route from '../xt/lang/event-route'
+import * as event_route from '../libs/xt/event/base-route'
 
 import slim_table_list from './slim-table-list'
 

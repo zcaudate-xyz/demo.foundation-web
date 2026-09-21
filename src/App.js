@@ -8,15 +8,11 @@ import web_pune_frame from './web-pune-frame'
 
 import web_melbourne from './web-melbourne'
 
-import n from './js/react-native'
+import * as n from './libs/js/react-native.js'
 
-import client from './xt/lang/base-client'
+import * as base_box from './libs/xt/event/base-box.js'
 
-import k from './xt/lang/base-lib'
-
-import base_box from './xt/lang/event-box'
-
-import ext_box from './js/react/ext-box'
+import * as ext_box from './libs/js/react/ext-box.js'
 
 // component.web-index/__import__ [28] 
 import RNIcon from 'react-native-vector-icons/Entypo'
@@ -40,7 +36,7 @@ Object.defineProperty((globalThis),"LWCharts",{"value":LWCharts,"writeable":true
 Object.defineProperty((globalThis),"Expo",{"value":Expo,"writeable":true});
 
 // component.web-index/Global [32] 
-globalThis["component_web_index$$Global"] = base_box.make_box({"init":false,"l0":"03-pune-frame","l1":"101-sidemenu"});
+globalThis["component_web_index$$Global"] = base_box.make_box({"init":false,"l0":"01-melbourne","l1":"207a-spinner-basic"});
 
 // component.web-index/Screens [38] 
 globalThis["component_web_index$$Screens"] = base_box.make_box({});
@@ -92,6 +88,4 @@ function App(){
     <Main></Main>);
 }
 
-var MODULE = Expo.registerRootComponent(App);
-
-export default MODULE
+export var MODULE = Expo.registerRootComponent(App);

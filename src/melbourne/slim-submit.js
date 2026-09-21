@@ -10,15 +10,15 @@ import ui_text from './ui-text'
 
 import slim_error from './slim-error'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ext_form from '../js/react/ext-form'
+import * as ext_form from '../libs/js/react/ext-form'
 
 import ui_button from './ui-button'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 

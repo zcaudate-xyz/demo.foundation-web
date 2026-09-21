@@ -8,7 +8,7 @@ import ui_button from './ui-button'
 
 import ui_static from './ui-static'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // melbourne.ui-chip/Chip [15] 
 function Chip({design = {},result = {},variant,text,style,onClose}){

@@ -4,7 +4,7 @@ import * as ReactNative from 'react-native'
 
 import RNIcon from 'react-native-vector-icons/Entypo'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_toggle_button from '../melbourne/ui-toggle-button'
 
@@ -12,7 +12,7 @@ import ui_static from '../melbourne/ui-static'
 
 import ui_text from '../melbourne/ui-text'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // pune.ui-submenu/SubMenuToggle [22] 
 function SubMenuToggle({design,mini,variant,item,...rprops}){

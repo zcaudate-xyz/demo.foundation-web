@@ -4,13 +4,13 @@ import * as RNSvg from 'react-native-svg'
 
 import React from 'react'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
 import base_palette from '../melbourne/base-palette'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // pune.ui-sparkline/getPath [19] 
 function getPath(values,width,height,maxValue,minValue){

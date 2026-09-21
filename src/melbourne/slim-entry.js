@@ -8,7 +8,7 @@ import base_font from './base-font'
 
 import ui_text from './ui-text'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
 import slim_select from './slim-select'
 
@@ -16,13 +16,13 @@ import slim_common from './slim-common'
 
 import slim_submit from './slim-submit'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_text_dialog from './ui-text-dialog'
 
-import ext_form from '../js/react/ext-form'
+import * as ext_form from '../libs/js/react/ext-form'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import ui_dropdown from './ui-dropdown'
 
@@ -30,11 +30,11 @@ import base_palette from './base-palette'
 
 import slim_number from './slim-number'
 
-import event_route from '../xt/lang/event-route'
+import * as event_route from '../libs/xt/event/base-route'
 
 import slim_image from './slim-image'
 
-import ui_util from '../js/react-native/ui-util'
+import * as ui_util from '../libs/js/react-native/ui-util'
 
 import ui_static from './ui-static'
 

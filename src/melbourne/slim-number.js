@@ -1,16 +1,16 @@
 import * as ReactNative from 'react-native'
 
-import event_form from '../xt/lang/event-form'
+import * as event_form from '../libs/xt/event/base-form'
 
 import slim_common from './slim-common'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_spinner from './ui-spinner'
 
-import ext_form from '../js/react/ext-form'
+import * as ext_form from '../libs/js/react/ext-form'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import ui_slider from './ui-slider'
 

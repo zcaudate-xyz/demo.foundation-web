@@ -2,17 +2,17 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import a from '../js/react-native/animate'
+import * as a from '../libs/js/react-native/animate'
 
 import market_live from './ui-market-live'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
-import c from '../js/react-native/helper-color'
+import * as c from '../libs/js/react-native/helper-color'
 
-import ui from '../js/react-native/physical-base'
+import * as ui from '../libs/js/react-native/physical-base'
 
 // pune.ui-market-live-test/CHART [24] 
 var CHART = {

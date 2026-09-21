@@ -4,11 +4,11 @@ import * as ReactNative from 'react-native'
 
 import base_font from './base-font'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import ui_radio_box from '../js/react-native/ui-radio-box'
+import * as ui_radio_box from '../libs/js/react-native/ui-radio-box'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 

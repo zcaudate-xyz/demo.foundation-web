@@ -2,11 +2,11 @@ import * as ReactNative from 'react-native'
 
 import * as ExpoImagePicker from 'expo-image-picker'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_button from './ui-button'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 

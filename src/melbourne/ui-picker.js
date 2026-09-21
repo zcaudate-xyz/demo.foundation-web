@@ -1,8 +1,8 @@
 import React from 'react'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import ui_picker from '../js/react-native/ui-picker'
+import * as ui_picker from '../libs/js/react-native/ui-picker'
 
 import ui_helper from './ui-helper'
 

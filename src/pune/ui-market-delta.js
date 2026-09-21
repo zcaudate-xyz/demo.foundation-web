@@ -4,15 +4,15 @@ import * as ReactNative from 'react-native'
 
 import RNIcon from 'react-native-vector-icons/Entypo'
 
-import c from '../js/react-native/helper-color'
+import * as c from '../libs/js/react-native/helper-color'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import a from '../js/react-native/animate'
+import * as a from '../libs/js/react-native/animate'
 
-import ui_base from '../js/react-native/physical-base'
+import * as ui_base from '../libs/js/react-native/physical-base'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // pune.ui-market-delta/Delta [21] 
 function Delta({value}){

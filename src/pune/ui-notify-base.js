@@ -6,19 +6,19 @@ import RNIcon from 'react-native-vector-icons/Entypo'
 
 import ui_text from '../melbourne/ui-text'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_spinner from '../melbourne/ui-spinner'
 
 import ui_button from '../melbourne/ui-button'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
-import ui_notify_events from '../js/react-native/ui-notify'
+import * as ui_notify_events from '../libs/js/react-native/ui-notify'
 
-import ui_util from '../js/react-native/ui-util'
+import * as ui_util from '../libs/js/react-native/ui-util'
 
 import ui_static from '../melbourne/ui-static'
 

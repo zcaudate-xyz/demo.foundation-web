@@ -2,7 +2,7 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_helper from './ui-helper'
 

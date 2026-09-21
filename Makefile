@@ -3,11 +3,11 @@ init:
 
 build-web:
 	yarn install
-	npx expo build:web
+	npx expo export --platform web
 
 dev:
 	yarn install
-	npx expo start --web
+	npx expo start --web --port 19007
 
 ios:
 	yarn install

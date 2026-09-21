@@ -2,9 +2,9 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import base_palette from '../melbourne/base-palette'
 

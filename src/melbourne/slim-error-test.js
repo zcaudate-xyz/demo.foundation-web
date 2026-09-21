@@ -1,6 +1,6 @@
 import * as ReactNative from 'react-native'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import slim_error from './slim-error'
 

@@ -1,4 +1,4 @@
-import ui_input from '../js/react-native/ui-input'
+import * as ui_input from '../libs/js/react-native/ui-input'
 
 import base_palette from './base-palette'
 

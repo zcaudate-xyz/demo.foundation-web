@@ -2,15 +2,15 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import event_form from '../xt/lang/event-form'
+import * as event_form from '../libs/xt/event/base-form'
 
 import ui_image from './ui-image'
 
 import slim_common from './slim-common'
 
-import ext_form from '../js/react/ext-form'
+import * as ext_form from '../libs/js/react/ext-form'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 

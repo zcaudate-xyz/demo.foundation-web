@@ -4,9 +4,9 @@ import base_font from './base-font'
 
 import addon_tooltip from './addon-tooltip'
 
-import ui_button from '../js/react-native/ui-button'
+import * as ui_button from '../libs/js/react-native/ui-button'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 
