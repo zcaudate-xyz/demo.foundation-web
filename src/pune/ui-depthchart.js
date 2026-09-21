@@ -4,15 +4,15 @@ import * as RNSvg from 'react-native-svg'
 
 import React from 'react'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
 import base_palette from '../melbourne/base-palette'
 
 import ui_sparkline from './ui-sparkline'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // pune.ui-depthchart/get-depth-histogram [21] 
 function get_depth_histogram(domain,lu,step,cmp){

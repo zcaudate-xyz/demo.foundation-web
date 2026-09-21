@@ -1,12 +1,12 @@
 import * as ReactNative from 'react-native'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ui_tooltip from '../js/react-native/ui-tooltip'
+import * as ui_tooltip from '../libs/js/react-native/ui-tooltip'
 
-import ui_scrollview from '../js/react-native/ui-scrollview'
+import * as ui_scrollview from '../libs/js/react-native/ui-scrollview'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 

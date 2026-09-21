@@ -1,6 +1,6 @@
-import c from '../js/react-native/helper-color'
+import * as c from '../libs/js/react-native/helper-color'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // melbourne.base-palette/PaletteRatio [11] 
 var PaletteRatio = {

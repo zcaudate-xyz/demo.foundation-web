@@ -6,17 +6,17 @@ import base_font from './base-font'
 
 import ui_text from './ui-text'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import ui_autocomplete from '../js/react-native/ui-autocomplete'
+import * as ui_autocomplete from '../libs/js/react-native/ui-autocomplete'
 
 import ui_input from './ui-input'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ext_view from '../js/react/ext-view'
+import * as ext_view from '../libs/js/react/ext-model'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import ui_static from './ui-static'
 

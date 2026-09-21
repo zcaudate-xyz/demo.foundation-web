@@ -8,7 +8,7 @@ import ui_market_delta_test from './pune/ui-market-delta-test'
 
 import web_pune_frame_graph from './web-pune-frame-graph'
 
-import n from './js/react-native'
+import * as n from './libs/js/react-native'
 
 import ui_topnotify_test from './pune/ui-notify-base-test'
 
@@ -16,7 +16,7 @@ import ui_sidebar_test from './pune/ui-sidebar-test'
 
 import ui_page_test from './pune/ui-page-test'
 
-import k from './xt/lang/base-lib'
+import k from './libs/xt/lang/base-lib'
 
 import ui_depthchart_test from './pune/ui-depthchart-test'
 

@@ -4,7 +4,7 @@ import * as ReactNative from 'react-native'
 
 import RNIcon from 'react-native-vector-icons/Entypo'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_sidemenu from './ui-sidemenu'
 

@@ -2,11 +2,11 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ext_form from '../js/react/ext-form'
+import * as ext_form from '../libs/js/react/ext-form'
 
-import event_form from '../xt/lang/event-form'
+import * as event_form from '../libs/xt/event/base-form'
 
 import slim_common from './slim-common'
 

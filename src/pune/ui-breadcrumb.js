@@ -1,8 +1,8 @@
 import ui_static from '../melbourne/ui-static'
 
-import base_text from '../xt/lang/base-text'
+import * as base_text from '../libs/xt/lang/common-string'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // pune.ui-breadcrumb/Breadcrumb [19] 
 function Breadcrumb({

@@ -4,15 +4,15 @@ import * as ReactNative from 'react-native'
 
 import ui_autocomplete from './ui-autocomplete'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ext_form from '../js/react/ext-form'
+import * as ext_form from '../libs/js/react/ext-form'
 
 import slim_sheet from './slim-sheet'
 
-import ext_view from '../js/react/ext-view'
+import * as ext_view from '../libs/js/react/ext-model'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // melbourne.ui-autocomplete-test/NAMES [23] 
 var NAMES = [

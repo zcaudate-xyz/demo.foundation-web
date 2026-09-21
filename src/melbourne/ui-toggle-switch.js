@@ -1,4 +1,4 @@
-import ui_toggle_switch from '../js/react-native/ui-toggle-switch'
+import * as ui_toggle_switch from '../libs/js/react-native/ui-toggle-switch'
 
 import base_palette from './base-palette'
 
@@ -6,7 +6,7 @@ import base_theme from './base-theme'
 
 import base_font from './base-font'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // melbourne.ui-toggle-switch/ToggleSwitch [21] 
 function ToggleSwitch({

@@ -2,17 +2,17 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ext_form from '../js/react/ext-form'
+import * as ext_form from '../libs/js/react/ext-form'
 
 import slim_submit from './slim-submit'
 
 import validators from './base-validators'
 
-import event_form from '../xt/lang/event-form'
+import * as event_form from '../libs/xt/event/base-form'
 
 // melbourne.slim-submit-test/UseSubmitDemo [25] 
 function UseSubmitDemo(){

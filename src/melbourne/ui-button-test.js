@@ -2,7 +2,7 @@ import * as ReactNative from 'react-native'
 
 import React from 'react'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_button from './ui-button'
 

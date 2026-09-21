@@ -1,8 +1,8 @@
 import * as ReactNative from 'react-native'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ui_util from '../js/react-native/ui-util'
+import * as ui_util from '../libs/js/react-native/ui-util'
 
 import ui_static from './ui-static'
 
@@ -10,7 +10,7 @@ import ui_button from './ui-button'
 
 import ui_text from './ui-text'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // melbourne.ui-section/styleSection [26] 
 var styleSection = {

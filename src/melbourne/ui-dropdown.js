@@ -4,19 +4,19 @@ import * as ReactNative from 'react-native'
 
 import RNIcon from 'react-native-vector-icons/Entypo'
 
-import ui_tooltip from '../js/react-native/ui-tooltip'
+import * as ui_tooltip from '../libs/js/react-native/ui-tooltip'
 
-import ui_modal from '../js/react-native/ui-modal'
+import * as ui_modal from '../libs/js/react-native/ui-modal'
 
 import ui_toggle_button from './ui-toggle-button'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_group from './ui-group'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 

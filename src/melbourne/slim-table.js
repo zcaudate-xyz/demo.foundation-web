@@ -10,25 +10,25 @@ import ui_text from './ui-text'
 
 import ui_toolbar from './ui-toolbar'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
 import slim_table_common from './slim-table-common'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ui_router from '../js/react-native/ui-router'
+import * as ui_router from '../libs/js/react-native/ui-router'
 
 import slim_sheet from './slim-sheet'
 
-import ext_view from '../js/react/ext-view'
+import * as ext_view from '../libs/js/react/ext-model'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
-import ext_route from '../js/react/ext-route'
+import * as ext_route from '../libs/js/react/ext-route'
 
 import ui_section from './ui-section'
 
-import ui_util from '../js/react-native/ui-util'
+import * as ui_util from '../libs/js/react-native/ui-util'
 
 import ui_swiper from './ui-swiper'
 

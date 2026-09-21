@@ -1,4 +1,4 @@
-import k from '../../xt/lang/base-lib'
+import k from '../../libs/xt/lang/base-lib'
 
 // pune.common.data-market/price-to-float [9] 
 function price_to_float(price){

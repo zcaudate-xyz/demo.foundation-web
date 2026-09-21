@@ -1,8 +1,8 @@
 import * as ReactNative from 'react-native'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ext_form from '../js/react/ext-form'
+import * as ext_form from '../libs/js/react/ext-form'
 
 import slim_image from './slim-image'
 

@@ -1,4 +1,4 @@
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // melbourne.base-validators/is-true [9] 
 function is_true(message){

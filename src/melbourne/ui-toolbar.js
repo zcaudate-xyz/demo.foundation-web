@@ -2,15 +2,15 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import ui_tooltip from '../js/react-native/ui-tooltip'
+import * as ui_tooltip from '../libs/js/react-native/ui-tooltip'
 
 import ui_text from './ui-text'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import base_palette from './base-palette'
 
-import ui_util from '../js/react-native/ui-util'
+import * as ui_util from '../libs/js/react-native/ui-util'
 
 import ui_static from './ui-static'
 

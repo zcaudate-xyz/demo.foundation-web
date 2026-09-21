@@ -7,7 +7,7 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
-web-build/
+dist/
 .DS_Store
 yarn.lock
 yarn-error.log

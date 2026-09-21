@@ -2,11 +2,11 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import ui_toggle_button from './ui-toggle-button'
 

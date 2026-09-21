@@ -4,8 +4,11 @@
     "updates" : {
       "fallbackToCacheTimeout" : 0
     },
-    "name" : "Web Index",
-    "slug" : "web index",
+    "experiments" : {
+      "baseUrl" : "/demo.foundation-web"
+    },
+    "name" : "Js Web Components",
+    "slug" : "js-web-components",
     "entryPoint" : "./src/App.js",
     "splash" : {
       "resizeMode" : "contain",

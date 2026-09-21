@@ -4,23 +4,23 @@ import * as ReactNative from 'react-native'
 
 import RNIcon from 'react-native-vector-icons/Entypo'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import event_form from '../xt/lang/event-form'
+import * as event_form from '../libs/xt/event/base-form'
 
 import slim_select from './slim-select'
 
 import slim_common from './slim-common'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ext_form from '../js/react/ext-form'
+import * as ext_form from '../libs/js/react/ext-form'
 
-import ext_view from '../js/react/ext-view'
+import * as ext_view from '../libs/js/react/ext-model'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
-import ui_util from '../js/react-native/ui-util'
+import * as ui_util from '../libs/js/react-native/ui-util'
 
 import ui_static from './ui-static'
 

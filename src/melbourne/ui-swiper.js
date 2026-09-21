@@ -1,4 +1,4 @@
-import ui_swiper from '../js/react-native/ui-swiper'
+import * as ui_swiper from '../libs/js/react-native/ui-swiper'
 
 import base_palette from './base-palette'
 

@@ -4,11 +4,11 @@ import base_font from './base-font'
 
 import ui_helper from './ui-helper'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ui_spinner from '../js/react-native/ui-spinner'
+import * as ui_spinner from '../libs/js/react-native/ui-spinner'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 import base_palette from './base-palette'
 

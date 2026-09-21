@@ -4,15 +4,15 @@ import * as ReactNative from 'react-native'
 
 import market_delta from './ui-market-delta'
 
-import a from '../js/react-native/animate'
+import * as a from '../libs/js/react-native/animate'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
-import c from '../js/react-native/helper-color'
+import * as c from '../libs/js/react-native/helper-color'
 
-import ui from '../js/react-native/physical-base'
+import * as ui from '../libs/js/react-native/physical-base'
 
 // pune.ui-market-delta-test/DeltaDemo [27] 
 function DeltaDemo(){

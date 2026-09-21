@@ -12,17 +12,17 @@ import ui_toolbar from './ui-toolbar'
 
 import slim_table from './slim-table'
 
-import r from '../js/react'
+import * as r from '../libs/js/react'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
 import slim_sheet from './slim-sheet'
 
-import ext_view from '../js/react/ext-view'
+import * as ext_view from '../libs/js/react/ext-model'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
-import ext_route from '../js/react/ext-route'
+import * as ext_route from '../libs/js/react/ext-route'
 
 import slim_table_list from './slim-table-list'
 

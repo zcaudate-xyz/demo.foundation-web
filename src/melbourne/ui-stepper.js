@@ -2,15 +2,15 @@ import React from 'react'
 
 import * as ReactNative from 'react-native'
 
-import physical_base from '../js/react-native/physical-base'
+import * as physical_base from '../libs/js/react-native/physical-base'
 
-import a from '../js/react-native/animate'
+import * as a from '../libs/js/react-native/animate'
 
-import model_roller from '../js/react-native/model-roller'
+import * as model_roller from '../libs/js/react-native/model-roller'
 
 import ui_group from './ui-group'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // melbourne.ui-stepper/StepperTabs [16] 
 function StepperTabs({design,variant,total,style,styleContainer,index,setIndex,...rprops}){

@@ -1,8 +1,8 @@
 import * as ReactNative from 'react-native'
 
-import n from '../js/react-native'
+import * as n from '../libs/js/react-native'
 
-import ui_modal from '../js/react-native/ui-modal'
+import * as ui_modal from '../libs/js/react-native/ui-modal'
 
 import base_palette from './base-palette'
 

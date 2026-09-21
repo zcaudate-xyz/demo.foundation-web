@@ -1,6 +1,6 @@
 import * as ReactNative from 'react-native'
 
-import k from '../xt/lang/base-lib'
+import k from '../libs/xt/lang/base-lib'
 
 // melbourne.base-font/fontH1 [11] 
 var fontH1 = {"fontSize":30,"fontWeight":"900"};
